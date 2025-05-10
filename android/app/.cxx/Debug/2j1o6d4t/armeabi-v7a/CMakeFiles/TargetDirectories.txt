@@ -1,0 +1,2 @@
+D:/git_repo/app_advent_krew_AB2_11/android/app/.cxx/Debug/2j1o6d4t/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/git_repo/app_advent_krew_AB2_11/android/app/.cxx/Debug/2j1o6d4t/armeabi-v7a/CMakeFiles/rebuild_cache.dir

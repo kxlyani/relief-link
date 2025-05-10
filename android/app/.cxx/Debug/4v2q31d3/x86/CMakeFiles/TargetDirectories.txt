@@ -1,0 +1,2 @@
+D:/git_repo/repo2-1/android/app/.cxx/Debug/4v2q31d3/x86/CMakeFiles/edit_cache.dir
+D:/git_repo/repo2-1/android/app/.cxx/Debug/4v2q31d3/x86/CMakeFiles/rebuild_cache.dir
